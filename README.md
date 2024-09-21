@@ -1,1 +1,1 @@
-#this is an image gallary made with html and css
+#this is an image gallery made with html and css
